@@ -1,2 +1,4 @@
-# getDatajson
-example to retrieve json file
+{
+"FirstName" : "Rafael",
+"LastName" : "Moreno"
+}
