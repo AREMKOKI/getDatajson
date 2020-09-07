@@ -1,0 +1,9 @@
+{
+  "FirstName": "Antonio",
+  "LastName": "Moreno",
+  "age": 40,
+  "single": true
+  "placesOfWork": [
+  "Augusta", "Savannah", "Baxley", "Alma", "Hazlehurst"
+  ]
+}
